@@ -9937,3 +9937,34 @@ textarea.form-control {
         font-size: 22px;
       }
     }
+
+.about-section {
+  padding: 80px 20px;
+  background-color: #fafafa;
+}
+
+.about-container {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-container h2 {
+  font-size: 36px;
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 20px;
+  letter-spacing: 0.5px;
+}
+
+.about-container p {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #555;
+  font-weight: 400;
+}
+
+.about-container .brand {
+  font-weight: 600;
+  color: #000;
+}
