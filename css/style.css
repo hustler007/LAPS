@@ -9941,6 +9941,7 @@ textarea.form-control {
 .about-section {
   padding: 80px 20px;
   background-color: #fafafa;
+
 }
 
 .about-container {
@@ -9962,6 +9963,8 @@ textarea.form-control {
   line-height: 1.8;
   color: #555;
   font-weight: 400;
+
+  
 }
 
 .about-container .brand {
